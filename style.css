@@ -295,6 +295,11 @@ section { margin-bottom: 40px; }
   color: #cfcfcf;
   text-align: justify;
 }
+.img-responsive {
+    width: 100%;
+    height: auto;
+    display: block;
+}
 
 /* ============================================
    FOOTER
@@ -314,3 +319,4 @@ section { margin-bottom: 40px; }
   .hero { padding: 50px 20px; }
   h1, h2, h3 { text-align:center; }
 }
+
